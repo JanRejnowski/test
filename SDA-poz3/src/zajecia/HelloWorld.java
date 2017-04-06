@@ -17,7 +17,6 @@ public class HelloWorld {
 //        avg();
 //        sumOf();
 //        avgOfMultipliedBy();
-//        test
     }
 
     public static void sumOfElements() {
